@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/ruoxi/SLAM/src/Driver_ws/depth_camera/ros_astra_camera-master/include/**",
+        "/home/ruoxi/SLAM/src/SLAM_ws/VINS-Mono-Opencv4/camera_model/include/**",
+        "/home/ruoxi/SLAM/src/Driver_ws/camera_split/include/**",
+        "/home/ruoxi/SLAM/src/darknet_ros/darknet_ros/include/**",
+        "/home/ruoxi/catkin_ws/src/eight_neighbor_follow_line/include/**",
+        "/home/ruoxi/SLAM/src/Driver_ws/camera_umd/jpeg_streamer/include/**",
+        "/home/ruoxi/catkin_ws/src/kewosi_lds/include/**",
+        "/home/ruoxi/catkin_ws/src/learning_tf/include/**",
+        "/home/ruoxi/SLAM/src/SLAM_ws/ORB_SLAM3/Examples/ROS/ORB_SLAM3/include/**",
+        "/home/ruoxi/SLAM/src/SLAM_ws/ORB_SLAM3/Examples/ROS/orbslam3_pointcloud_mapping/include/**",
+        "/home/ruoxi/SLAM/src/Deep_Learning_ws/ros_object_detection_viewer/include/**",
+        "/home/ruoxi/SLAM/src/Deep_Learning_ws/ssd_ros/include/**",
+        "/home/ruoxi/catkin_ws/src/tianbot/tianbot_core/include/**",
+        "/home/ruoxi/catkin_ws/src/tianrover_mini_ws/tianrover_mini_teleop/include/**",
+        "/home/ruoxi/catkin_ws/src/two_turtle_track/include/**",
+        "/home/ruoxi/SLAM/src/Driver_ws/usb_cam/include/**",
+        "/home/ruoxi/SLAM/src/Driver_ws/camera_umd/uvc_camera/include/**",
+        "/home/ruoxi/catkin_ws/src/xv_11_laser_driver-hydro-devel/include/**",
+        "/usr/include/**",
+        "/home/ruoxi/3rdparty/TensorRT-8.0.1.6/include/**",
+        "/usr/local/cuda/include/**",
+        "/usr/local/include/opencv4/opencv2/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
